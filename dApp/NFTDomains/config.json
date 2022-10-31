@@ -1,0 +1,15 @@
+{
+			"background":"/NFTDomains/bg.jpg",
+			"color1": "",
+			"color2": "",
+			"name": "Trust EOS Web3 Identity",
+			"symbol": "EVMDID",
+			"host": "https://app.eosdomains.xyz",
+			"external_url": "https://eosdomains.xyz/",
+			"position": "center",
+			"chain_name": "TrustEVM",
+			"text_x":0,
+			"text_y":60,
+			"tlds": "eos,evm",
+			"description":"Trust EOS Web3 Identity - Building Identity on blockchain with .eos domains - buy once use forever"
+		}
